@@ -2,6 +2,7 @@
 
 <p align="center">
   My name is Kaiky Andrade and my nickname is "KayBranco"!
+  ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ## 📌 Sobre
