@@ -2,8 +2,10 @@
 
 <p align="center">
   My name is Kaiky Andrade and my nickname is "KayBranco"!
-  ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 </p>
+
+  ![Snake animation](https://github.com/KayBranco/KayBranco/blob/output/github-contribution-grid-snake.svg)
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=KayBranco&repo=KayBranco&theme=react)](https://github.com/KayBranco/KayBranco)
 
 ## 📌 Sobre
 
