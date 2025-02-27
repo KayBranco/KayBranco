@@ -8,9 +8,6 @@
 
 - 🎯 Atualmente estudando e desenvolvendo habilidades em **Quality Assurance (QA)**, com foco em testes manuais e automatizados.
 - 🎓 Estudante de **Engenharia da Computação** na UNITAU.
-- 🖥️ Trabalho como **helpdesk no INSS**, lidando com manutenção de servidores, instalação de máquinas e suporte técnico.
-
----
 
 ## 🛠️ Ferramentas e Tecnologias
 
