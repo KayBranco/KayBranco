@@ -35,13 +35,6 @@
 
 <p align="center"><i>Java no radar, junto com muito teste automatizado 🚀</i></p>
 
-## 🎯 Objetivos
-
-- [x] Aprender o básico de front-end e back-end
-- [ ] Dominar automação de testes
-- [ ] Conseguir minha vaga em QA
-- [ ] Contribuir com projetos open source
-
 ## 🤝 Bora trocar uma ideia?
 
 Curte **QA**, **desenvolvimento** ou quer só bater um papo sobre tecnologia? Manda mensagem! Estou aberto a dicas, feedbacks e novas conexões.
@@ -68,10 +61,13 @@ Curte **QA**, **desenvolvimento** ou quer só bater um papo sobre tecnologia? Ma
   <img src="https://streak-stats.demolab.com?user=KayBranco&theme=dracula&hide_border=true" height="170em"/>
 </div>
 
-<!--
-Snake (precisa de um workflow no GitHub Actions):
-![Snake animation](https://github.com/KayBranco/KayBranco/blob/output/github-contribution-grid-snake.svg)
--->
+## 🐍 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KayBranco/KayBranco/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KayBranco/KayBranco/output/github-snake.svg" />
+  <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/KayBranco/KayBranco/output/github-snake.svg" />
+</picture>
 
 ---
 
