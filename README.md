@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=KayBranco&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20%26%20Full%20Stack&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=KayBranco&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20e%20Full%20Stack&descAlignY=58&descSize=20" width="100%"/>
 
 <h1 align="center">E aí, tudo certo? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
