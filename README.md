@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=KayBranco&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20%7C%20Dev%20em%20construção&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=KayBranco&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20%26%20Full%20Stack&descAlignY=58&descSize=20" width="100%"/>
 
 <h1 align="center">E aí, tudo certo? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=500&lines=Eu+sou+o+Kaiky+Andrade+%F0%9F%91%8B;Estudante+de+Eng.+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Ca%C3%A7ador+de+bugs+%F0%9F%90%9B;Aprendendo+QA+e+Java+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=500&lines=Oi,+eu+sou+o+Kaiky+Andrade;Dev+front-end+e+full+stack;Java+no+back,+React+no+front;GCP+no+dia+a+dia" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,32 +14,24 @@
 
 ---
 
-## 🧑‍💻 Quem sou eu
+## Sobre mim
 
-- 🎓 Estudante de **Engenharia da Computação** na **UNITAU**
-- 🐛 Mergulhando em **Quality Assurance (QA)**: testes manuais e automatizados
-- 🌱 Sempre aprendendo, errando, corrigindo e aprendendo de novo
-- ☕ Movido a café e a vontade de entregar software que não quebra na mão do usuário
+- Dev front-end e full stack, mexendo com back-end em **Java** e com **GCP** no trabalho
+- Estudante de **Engenharia da Computação** na **UNITAU**
+- Curto transformar protótipo no Figma em tela funcionando
+- Gosto de código limpo, interface bem feita e projeto que não quebra na sexta à tarde
 
-## 🛠️ Minha caixinha de ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,react,mysql,vscode,visualstudio,figma,git,github&perline=6" />
-</p>
-
-## 📚 Estudando agora
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,php,mysql,gcp,git,github,figma,vscode,visualstudio&perline=7" />
 </p>
 
-<p align="center"><i>Java no radar, junto com muito teste automatizado 🚀</i></p>
+## Papo reto
 
-## 🤝 Bora trocar uma ideia?
+Se quiser trocar ideia sobre front, Java, cloud ou carreira em tech, manda mensagem. Estou sempre aberto a dicas, feedbacks e conexões novas.
 
-Curte **QA**, **desenvolvimento** ou quer só bater um papo sobre tecnologia? Manda mensagem! Estou aberto a dicas, feedbacks e novas conexões.
-
-## 📞 Contatos
+## Contatos
 
 <p align="center">
   <a href="mailto:kaikylucas65@gmail.com">
@@ -50,18 +42,7 @@ Curte **QA**, **desenvolvimento** ou quer só bater um papo sobre tecnologia? Ma
   </a>
 </p>
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayBranco&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KayBranco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KayBranco&theme=dracula&hide_border=true" height="170em"/>
-</div>
-
-## 🐍 Minhas contribuições
+## Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KayBranco/KayBranco/output/github-snake-dark.svg" />
@@ -72,8 +53,8 @@ Curte **QA**, **desenvolvimento** ou quer só bater um papo sobre tecnologia? Ma
 ---
 
 <p align="center">
-  <i>"Funciona na minha máquina" não conta como teste. 😅</i><br>
-  Valeu por passar por aqui! ⭐
+  <i>"Se está funcionando, não mexe."</i><br>
+  Valeu por passar por aqui!
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=100&section=footer" width="100%"/>
