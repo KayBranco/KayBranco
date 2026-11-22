@@ -16,10 +16,6 @@
   <img src="./holo-card.svg" alt="Cartão de colecionador de KayBranco" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="./experience-card.svg" alt="Trajetória profissional" width="100%"/>
-</p>
-
 ---
 
 ## Sobre mim
