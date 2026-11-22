@@ -12,10 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=KayBranco&label=Visitas&color=7C3AED&style=for-the-badge" alt="visitas"/>
 </p>
 
-<p align="center">
-  <img src="./holo-card.svg" alt="Cartão de colecionador de KayBranco" width="100%"/>
-</p>
-
 ---
 
 ## Sobre mim
